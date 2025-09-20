@@ -1,0 +1,6200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.750355,
+          53.135688
+        ]
+      },
+      "properties": {
+        "directionCity": "Białystok",
+        "id": "1",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.793501,
+          53.144893
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "2",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.935965,
+          53.164913
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "3",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.981691,
+          53.06402
+        ]
+      },
+      "properties": {
+        "directionCity": "Budzisko",
+        "id": "4",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.978905,
+          53.064462
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "5",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.127441,
+          53.270723
+        ]
+      },
+      "properties": {
+        "directionCity": "Budzisko",
+        "id": "6",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.125636,
+          53.270702
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "7",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1692,
+          53.4264
+        ]
+      },
+      "properties": {
+        "directionCity": "Budzisko",
+        "id": "8",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1711,
+          53.4311
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "9",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.825379,
+          53.998948
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "10",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.82569,
+          53.997753
+        ]
+      },
+      "properties": {
+        "directionCity": "Suwałki",
+        "id": "11",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.355731,
+          53.03939
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "12",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.398749,
+          53.058224
+        ]
+      },
+      "properties": {
+        "directionCity": "Białystok",
+        "id": "13",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.167657,
+          52.947615
+        ]
+      },
+      "properties": {
+        "directionCity": "Białystok",
+        "id": "14",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.093181,
+          52.908332
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "15",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.587884,
+          53.109715
+        ]
+      },
+      "properties": {
+        "directionCity": "Białystok",
+        "id": "16",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.586114,
+          53.110246
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "17",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.12055,
+          54.29972
+        ]
+      },
+      "properties": {
+        "directionCity": "Podwojponie",
+        "id": "18",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.114868,
+          54.302692
+        ]
+      },
+      "properties": {
+        "directionCity": "Ostrów Mazowiecka",
+        "id": "19",
+        "branch": "Białystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.640915,
+          53.628883
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "20",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.640382,
+          53.644396
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "21",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.708027,
+          53.341425
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "22",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.709017,
+          53.34701
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "23",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.723901,
+          53.258179
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "24",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.724986,
+          53.25952
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "25",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.743524,
+          53.143102
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "26",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.741344,
+          53.142957
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "27",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.734027,
+          53.01219
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "28",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.736212,
+          53.01253
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "29",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.721658,
+          52.900903
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "30",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.723333,
+          52.90178
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "31",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.85356,
+          52.761867
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "32",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.855626,
+          52.761075
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "33",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.929433,
+          52.654912
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "34",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.931472,
+          52.655884
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "35",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.011892,
+          52.567437
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "36",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.014121,
+          52.567698
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "37",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.190171,
+          52.464871
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "38",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.191928,
+          52.466344
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "39",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.355812,
+          52.33905
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "40",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.356848,
+          52.34073
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "41",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.691585,
+          52.83534
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "42",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.693924,
+          52.835483
+        ]
+      },
+      "properties": {
+        "directionCity": "Nowe Marzy",
+        "id": "43",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.902864,
+          53.199758
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "44",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.903743,
+          53.198557
+        ]
+      },
+      "properties": {
+        "directionCity": "Nowe Marzy",
+        "id": "45",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.296297,
+          53.34379
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "46",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.297284,
+          53.342035
+        ]
+      },
+      "properties": {
+        "directionCity": "Nowe Marzy",
+        "id": "47",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.903862,
+          53.088099
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecin",
+        "id": "48",
+        "branch": "Bydgoszcz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.631245,
+          54.191056
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "49",
+        "branch": "Gdańsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.632994,
+          54.192148
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "50",
+        "branch": "Gdańsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.629546,
+          53.887667
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "51",
+        "branch": "Gdańsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.631981,
+          53.887711
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "52",
+        "branch": "Gdańsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.048087,
+          54.229543
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "53",
+        "branch": "Gdańsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.798959,
+          54.303842
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "54",
+        "branch": "Gdańsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.275331,
+          54.477782
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecin",
+        "id": "55",
+        "branch": "Gdańsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.278891,
+          54.476174
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "56",
+        "branch": "Gdańsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.016095,
+          50.405355
+        ]
+      },
+      "properties": {
+        "directionCity": "Ostrava",
+        "id": "57",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.016975,
+          50.404405
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "58",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.741567,
+          50.371763
+        ]
+      },
+      "properties": {
+        "directionCity": "Ostrava",
+        "id": "59",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.742876,
+          50.370654
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "60",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.701266,
+          50.196258
+        ]
+      },
+      "properties": {
+        "directionCity": "Ostrava",
+        "id": "61",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.703133,
+          50.196389
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "62",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.662733,
+          50.074691
+        ]
+      },
+      "properties": {
+        "directionCity": "Ostrava",
+        "id": "63",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.664439,
+          50.074911
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "64",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.526023,
+          49.960473
+        ]
+      },
+      "properties": {
+        "directionCity": "Ostrava",
+        "id": "65",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.521657,
+          49.956965
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "66",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.390793,
+          50.424238
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "67",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.391995,
+          50.425051
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "68",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.551524,
+          50.311279
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "69",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.550291,
+          50.311456
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "70",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.882561,
+          50.252372
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "71",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.881741,
+          50.251422
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "72",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.298005,
+          50.147905
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "73",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.298655,
+          50.149486
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "74",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.217295,
+          50.292276
+        ]
+      },
+      "properties": {
+        "directionCity": "Zwardoń",
+        "id": "75",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.10585,
+          50.146603
+        ]
+      },
+      "properties": {
+        "directionCity": "Zwardoń",
+        "id": "76",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.195493,
+          50.26764
+        ]
+      },
+      "properties": {
+        "directionCity": "Pyrzowice",
+        "id": "77",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.107534,
+          50.1463
+        ]
+      },
+      "properties": {
+        "directionCity": "Pyrzowice",
+        "id": "78",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.921002,
+          49.812692
+        ]
+      },
+      "properties": {
+        "directionCity": "Cieszyn",
+        "id": "79",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.890421,
+          49.804734
+        ]
+      },
+      "properties": {
+        "directionCity": "Bielsko-Biała",
+        "id": "80",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.834883,
+          49.795932
+        ]
+      },
+      "properties": {
+        "directionCity": "Bielsko-Biała",
+        "id": "81",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.700954,
+          49.765278
+        ]
+      },
+      "properties": {
+        "directionCity": "Cieszyn",
+        "id": "82",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.700967,
+          49.76472
+        ]
+      },
+      "properties": {
+        "directionCity": "Bielsko-Biała",
+        "id": "83",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.653617,
+          49.766319
+        ]
+      },
+      "properties": {
+        "directionCity": "Cieszyn",
+        "id": "84",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.650694,
+          49.765495
+        ]
+      },
+      "properties": {
+        "directionCity": "Bielsko-Biała",
+        "id": "85",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.050975,
+          50.576061
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "86",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.049527,
+          50.57463
+        ]
+      },
+      "properties": {
+        "directionCity": "Ostrava",
+        "id": "87",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.057962,
+          50.689377
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "88",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.055564,
+          50.689425
+        ]
+      },
+      "properties": {
+        "directionCity": "Ostrava",
+        "id": "89",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.145181,
+          50.876095
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "90",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.143368,
+          50.877679
+        ]
+      },
+      "properties": {
+        "directionCity": "Ostrava",
+        "id": "91",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.019312,
+          50.812814
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "92",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.01795,
+          50.813357
+        ]
+      },
+      "properties": {
+        "directionCity": "Ostrava",
+        "id": "93",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.816958,
+          51.030799
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "94",
+        "branch": "Kielce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.741088,
+          50.974592
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "95",
+        "branch": "Kielce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.484607,
+          50.841441
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "96",
+        "branch": "Kielce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.482369,
+          50.841885
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "97",
+        "branch": "Kielce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.741095,
+          50.9732
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "98",
+        "branch": "Kielce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.401754,
+          50.703226
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "99",
+        "branch": "Kielce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.353821,
+          50.682744
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "100",
+        "branch": "Kielce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.25442,
+          50.59717
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "101",
+        "branch": "Kielce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.206431,
+          50.560006
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "102",
+        "branch": "Kielce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.139556,
+          50.016778
+        ]
+      },
+      "properties": {
+        "directionCity": "Tarnów",
+        "id": "103",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.141,
+          50.017528
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "104",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.338639,
+          49.988333
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "105",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.342417,
+          49.988028
+        ]
+      },
+      "properties": {
+        "directionCity": "Tarnów",
+        "id": "106",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.62225,
+          49.998333
+        ]
+      },
+      "properties": {
+        "directionCity": "Tarnów",
+        "id": "107",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.611806,
+          49.997917
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "108",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.88825,
+          50.041639
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "109",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.890028,
+          50.040611
+        ]
+      },
+      "properties": {
+        "directionCity": "Tarnów",
+        "id": "110",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.01463,
+          50.227014
+        ]
+      },
+      "properties": {
+        "directionCity": "Kielce",
+        "id": "111",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.012023,
+          50.226876
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "112",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.759465,
+          50.078913
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "113",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.772645,
+          50.081341
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "114",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.920944,
+          49.620083
+        ]
+      },
+      "properties": {
+        "directionCity": "Chyżne",
+        "id": "115",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.182756,
+          50.486456
+        ]
+      },
+      "properties": {
+        "directionCity": "Kielce",
+        "id": "116",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.148861,
+          50.405889
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "117",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.150306,
+          50.405056
+        ]
+      },
+      "properties": {
+        "directionCity": "Kielce",
+        "id": "118",
+        "branch": "Kraków"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.247958,
+          51.390369
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "119",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8666,
+          51.6736
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "120",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9869,
+          51.5874
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "121",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.24754,
+          51.388809
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "122",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.383361,
+          50.717896
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "123",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.381302,
+          50.716752
+        ]
+      },
+      "properties": {
+        "directionCity": "Rzeszów",
+        "id": "124",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.293198,
+          50.781897
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "125",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.290796,
+          50.781775
+        ]
+      },
+      "properties": {
+        "directionCity": "Rzeszów",
+        "id": "126",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.72516,
+          51.18137
+        ]
+      },
+      "properties": {
+        "directionCity": "Piaski",
+        "id": "127",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.783,
+          51.1593
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "128",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.384202,
+          51.045157
+        ]
+      },
+      "properties": {
+        "directionCity": "Rzeszów",
+        "id": "129",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.386047,
+          51.04459
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "130",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4354,
+          51.1889
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "131",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.435,
+          51.1914
+        ]
+      },
+      "properties": {
+        "directionCity": "Rzeszów",
+        "id": "132",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2885,
+          50.9664
+        ]
+      },
+      "properties": {
+        "directionCity": "Rzeszów",
+        "id": "133",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2898,
+          50.9649
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "134",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2651,
+          50.8786
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "135",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2639,
+          50.8757
+        ]
+      },
+      "properties": {
+        "directionCity": "Rzeszów",
+        "id": "136",
+        "branch": "Lublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.485525,
+          52.184595
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "137",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.489093,
+          52.184309
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "138",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.542748,
+          52.005359
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "139",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.544862,
+          52.007587
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "140",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.661346,
+          51.841952
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "141",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.656879,
+          51.841877
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "142",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.605316,
+          51.702524
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "143",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.602474,
+          51.703078
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "144",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3900203,
+          51.1092708
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "145",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.39126775,
+          51.10720645
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "146",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.46996617,
+          51.17923643
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "147",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.879881,
+          52.035297
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "148",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.876412,
+          52.034345
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "149",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.179229,
+          51.944948
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "150",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.176163,
+          51.944496
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "151",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.409592,
+          51.919947
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "152",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.407123,
+          51.918124
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "153",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.704353,
+          51.900043
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "154",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.708325,
+          51.897653
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "155",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.001995,
+          52.029285
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "156",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.005046,
+          52.026923
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "157",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.236114,
+          52.07615
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "158",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.238134,
+          52.074216
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "159",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.525494,
+          51.356508
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "160",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.522756,
+          51.357881
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "161",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.697538,
+          51.527318
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "162",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6935,
+          51.527766
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "163",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.936809,
+          51.574071
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "164",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.938623,
+          51.576633
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "165",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.087808,
+          51.552118
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "166",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.088576,
+          51.554659
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "167",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.43715,
+          51.634416
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "168",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.439092,
+          51.632289
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "169",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6796,
+          51.441124
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "170",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.681511,
+          51.441497
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "171",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.781038,
+          51.459189
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "172",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.870326,
+          51.502445
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "173",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.878609,
+          51.504698
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "174",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.887766,
+          51.505812
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "175",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.13215,
+          51.642644
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "176",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.191834,
+          51.679437
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "177",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.231716,
+          51.73386
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "178",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.231939,
+          51.734378
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "179",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.779725,
+          51.460242
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "180",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.780543,
+          51.46088
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "181",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.83917,
+          51.494916
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "182",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.874648,
+          51.505367
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "183",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.905792,
+          51.514996
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "184",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.934851,
+          51.524232
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "185",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.040135,
+          51.589477
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "186",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.15251,
+          51.65732
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "187",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.178425,
+          51.67143
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "188",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.231053,
+          51.735964
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "189",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.463152,
+          51.927085
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "190",
+        "branch": "Łódź"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.415825,
+          54.137013
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "191",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.452887,
+          54.135487
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "192",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.611714,
+          54.07884
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "193",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.735382,
+          53.890231
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "194",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.73307,
+          53.882447
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "195",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.788719,
+          53.806729
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "196",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.790754,
+          53.800146
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "197",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.043437,
+          53.638844
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "198",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.045644,
+          53.639339
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "199",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.298163,
+          53.514906
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "200",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.320462,
+          53.480549
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "201",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.978444,
+          53.708806
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "202",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.43706,
+          53.29981
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "203",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.43546,
+          53.299722
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "204",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1813,
+          53.58366
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "205",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.181033,
+          53.582197
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "206",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.300431,
+          53.742681
+        ]
+      },
+      "properties": {
+        "directionCity": "Ełk",
+        "id": "207",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.298743,
+          53.743775
+        ]
+      },
+      "properties": {
+        "directionCity": "Ostrów Mazowiecka",
+        "id": "208",
+        "branch": "Olsztyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.412521,
+          50.764635
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "209",
+        "branch": "Opole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.433439,
+          50.756336
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "210",
+        "branch": "Opole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.656025,
+          50.676912
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "211",
+        "branch": "Opole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.651739,
+          50.67699
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "212",
+        "branch": "Opole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8598851,
+          50.568684
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "213",
+        "branch": "Opole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.861423,
+          50.569719
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "214",
+        "branch": "Opole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.160492,
+          50.462665
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "215",
+        "branch": "Opole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.16082,
+          50.461227
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "216",
+        "branch": "Opole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.190126,
+          52.368156
+        ]
+      },
+      "properties": {
+        "directionCity": "Berlin",
+        "id": "217",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.189745,
+          52.367281
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "218",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.47471,
+          52.387966
+        ]
+      },
+      "properties": {
+        "directionCity": "Berlin",
+        "id": "219",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.476427,
+          52.386483
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "220",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.71466,
+          52.350472
+        ]
+      },
+      "properties": {
+        "directionCity": "Berlin",
+        "id": "221",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.714763,
+          52.34946
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "222",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.091342,
+          52.32964
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "223",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.093756,
+          52.327306
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "224",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.419727,
+          52.31835
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "225",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.42051,
+          52.317733
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "226",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.653817,
+          52.294568
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "227",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.651972,
+          52.293689
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "228",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.788812,
+          52.261245
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "229",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.931106,
+          52.226183
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "230",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.121165,
+          52.179337
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "231",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.124925,
+          52.179985
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "232",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.456161,
+          52.151764
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "233",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.456629,
+          52.152975
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "234",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.634064,
+          52.135675
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "235",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.633839,
+          52.134391
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "236",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.771649,
+          52.096878
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "237",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.772754,
+          52.097733
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "238",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.470135,
+          52.507973
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "239",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.472691,
+          52.507571
+        ]
+      },
+      "properties": {
+        "directionCity": "Bydgoszcz",
+        "id": "240",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.328668,
+          52.432457
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "241",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.330077,
+          52.431401
+        ]
+      },
+      "properties": {
+        "directionCity": "Bydgoszcz",
+        "id": "242",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.204826,
+          52.369065
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "243",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.201296,
+          52.364912
+        ]
+      },
+      "properties": {
+        "directionCity": "Bydgoszcz",
+        "id": "244",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.750083,
+          51.68989
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "245",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.746875,
+          51.689797
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "246",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.848872,
+          51.581887
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "247",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.846565,
+          51.580698
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "248",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.629078,
+          52.608635
+        ]
+      },
+      "properties": {
+        "directionCity": "Bydgoszcz",
+        "id": "249",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.626642,
+          52.608713
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "250",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.765389,
+          52.371907
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "251",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.767911,
+          52.371987
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "252",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.241135,
+          51.310363
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "253",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.240706,
+          51.311399
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "254",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.509658,
+          51.88195
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "255",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.51205,
+          51.884158
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "256",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.608576,
+          52.094715
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "257",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.610722,
+          52.093607
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "258",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.675797,
+          52.238295
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "259",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.674102,
+          52.238101
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "260",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.068306,
+          51.323184
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "261",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069014,
+          51.321488
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "262",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.01898212407,
+          52.3333200445406
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "263",
+        "branch": "Poznań"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.22138,
+          50.09808
+        ]
+      },
+      "properties": {
+        "directionCity": "Jędrzychowice",
+        "id": "264",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.22349,
+          50.09724
+        ]
+      },
+      "properties": {
+        "directionCity": "Korczowa",
+        "id": "265",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.51993,
+          50.09651
+        ]
+      },
+      "properties": {
+        "directionCity": "Korczowa",
+        "id": "266",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.51839,
+          50.09756
+        ]
+      },
+      "properties": {
+        "directionCity": "Jędrzychowice",
+        "id": "267",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.84501,
+          50.10952
+        ]
+      },
+      "properties": {
+        "directionCity": "Korczowa",
+        "id": "268",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.84527,
+          50.11074
+        ]
+      },
+      "properties": {
+        "directionCity": "Jędrzychowice",
+        "id": "269",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.16614,
+          50.09089
+        ]
+      },
+      "properties": {
+        "directionCity": "Jędrzychowice",
+        "id": "270",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.17554,
+          50.08932
+        ]
+      },
+      "properties": {
+        "directionCity": "Korczowa",
+        "id": "271",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.40745,
+          50.11294
+        ]
+      },
+      "properties": {
+        "directionCity": "Jędrzychowice",
+        "id": "272",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4079,
+          50.11191
+        ]
+      },
+      "properties": {
+        "directionCity": "Korczowa",
+        "id": "273",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.60802,
+          49.99488
+        ]
+      },
+      "properties": {
+        "directionCity": "Jędrzychowice",
+        "id": "274",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6061,
+          49.99398
+        ]
+      },
+      "properties": {
+        "directionCity": "Korczowa",
+        "id": "275",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.75471,
+          49.91755
+        ]
+      },
+      "properties": {
+        "directionCity": "Jędrzychowice",
+        "id": "276",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.76302,
+          49.91586
+        ]
+      },
+      "properties": {
+        "directionCity": "Korczowa",
+        "id": "277",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.02183,
+          49.9484
+        ]
+      },
+      "properties": {
+        "directionCity": "Jędrzychowice",
+        "id": "278",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.02461,
+          49.94771
+        ]
+      },
+      "properties": {
+        "directionCity": "Korczowa",
+        "id": "279",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.28918,
+          50.611802
+        ]
+      },
+      "properties": {
+        "directionCity": "Rzeszów",
+        "id": "280",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.290904,
+          50.611873
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "281",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.156492,
+          50.386812
+        ]
+      },
+      "properties": {
+        "directionCity": "Rzeszów",
+        "id": "282",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.157486,
+          50.388114
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "283",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1113101601496,
+          50.2856058917977
+        ]
+      },
+      "properties": {
+        "directionCity": "Rzeszów",
+        "id": "284",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1127866657854,
+          50.2855287559723
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "285",
+        "branch": "Rzeszów"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.812446,
+          53.581524
+        ]
+      },
+      "properties": {
+        "directionCity": "Świnoujuście",
+        "id": "286",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.801141,
+          53.545771
+        ]
+      },
+      "properties": {
+        "directionCity": "Gorzów Wlkp.",
+        "id": "287",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.423056,
+          53.338436
+        ]
+      },
+      "properties": {
+        "directionCity": "Berlin",
+        "id": "288",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.423271,
+          53.336841
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecin",
+        "id": "289",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.451723,
+          53.342177
+        ]
+      },
+      "properties": {
+        "directionCity": "Berlin",
+        "id": "290",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.582623,
+          53.305682
+        ]
+      },
+      "properties": {
+        "directionCity": "Gorzów Wlkp.",
+        "id": "291",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.585083,
+          53.306139
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecin",
+        "id": "292",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.711559,
+          53.151853
+        ]
+      },
+      "properties": {
+        "directionCity": "Gorzów Wlkp.",
+        "id": "293",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.713202,
+          53.152421
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecin",
+        "id": "294",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.866857,
+          53.051823
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecin",
+        "id": "295",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.864341,
+          53.051509
+        ]
+      },
+      "properties": {
+        "directionCity": "Gorzów Wlkp.",
+        "id": "296",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435521,
+          53.986716
+        ]
+      },
+      "properties": {
+        "directionCity": "Koszalin",
+        "id": "297",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.434439,
+          53.988521
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecin",
+        "id": "298",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.211664,
+          53.743231
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecin",
+        "id": "299",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.214222,
+          53.742635
+        ]
+      },
+      "properties": {
+        "directionCity": "Koszalin",
+        "id": "300",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.859089,
+          54.191411
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecin",
+        "id": "301",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.858948,
+          54.189732
+        ]
+      },
+      "properties": {
+        "directionCity": "Koszalin",
+        "id": "302",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.780252,
+          53.767585
+        ]
+      },
+      "properties": {
+        "directionCity": "Kołbaskowo",
+        "id": "303",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.781776,
+          53.767471
+        ]
+      },
+      "properties": {
+        "directionCity": "Świnoujuście",
+        "id": "304",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.412451,
+          54.027012
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecinek",
+        "id": "305",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.413829,
+          54.027642
+        ]
+      },
+      "properties": {
+        "directionCity": "Koszalin",
+        "id": "306",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.130491,
+          54.148374
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecinek",
+        "id": "307",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.136758,
+          54.150153
+        ]
+      },
+      "properties": {
+        "directionCity": "Koszalin",
+        "id": "308",
+        "branch": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.464546,
+          52.111579
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "309",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46107,
+          52.109503
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "310",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.685806,
+          52.155763
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "311",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.686273,
+          52.154605
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "312",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.719099,
+          52.20389
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "313",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.719099,
+          52.202318
+        ]
+      },
+      "properties": {
+        "directionCity": "Terespol",
+        "id": "314",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.460903,
+          52.213386
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "315",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.46027,
+          52.211541
+        ]
+      },
+      "properties": {
+        "directionCity": "Terespol",
+        "id": "316",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.854703,
+          51.87967
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "317",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.852026,
+          51.868362
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "318",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.877857,
+          51.834697
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "319",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.877005,
+          51.833481
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "320",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.909379,
+          51.746745
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "321",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.911664,
+          51.744958
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "322",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.929765,
+          51.698445
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "323",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.932931,
+          51.693699
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "324",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.973331,
+          51.623141
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "325",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.973969,
+          51.62035
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "326",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.988211,
+          51.600228
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "327",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.007774,
+          51.576618
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "328",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.018928,
+          51.570465
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "329",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.020461,
+          51.57064
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "330",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.059821,
+          51.542074
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "331",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.43642,
+          53.20132
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "332",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.43396,
+          53.20093
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "333",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.035611,
+          51.445206
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "334",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.033176,
+          51.442832
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "335",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.860624,
+          51.191905
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "336",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.491955,
+          51.951284
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "337",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.504074,
+          51.975254
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "338",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.546131,
+          51.993914
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "339",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.589856,
+          52.003943
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "340",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.674437,
+          52.028964
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "341",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.697191,
+          52.039397
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "342",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.747464,
+          52.06610955
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "343",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.247722,
+          52.441685
+        ]
+      },
+      "properties": {
+        "directionCity": "Białystok",
+        "id": "344",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.293403,
+          52.458226
+        ]
+      },
+      "properties": {
+        "directionCity": "Białystok",
+        "id": "345",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.321521,
+          52.469903
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "346",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.408977,
+          52.521394
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "347",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.012974,
+          52.865441
+        ]
+      },
+      "properties": {
+        "directionCity": "Białystok",
+        "id": "348",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.494167,
+          52.04
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "349",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.569398,
+          51.958275
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "350",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.763753,
+          51.75478
+        ]
+      },
+      "properties": {
+        "directionCity": "Lublin",
+        "id": "351",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.34182,
+          52.69895
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "352",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.36805,
+          52.67997
+        ]
+      },
+      "properties": {
+        "directionCity": "Gdańsk",
+        "id": "353",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.61685,
+          52.676321
+        ]
+      },
+      "properties": {
+        "directionCity": "Białystok",
+        "id": "354",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.692676,
+          52.713576
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "355",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.782851,
+          51.739855
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "356",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.90979995446208,
+          52.03835046279677
+        ]
+      },
+      "properties": {
+        "directionCity": "Warszawa",
+        "id": "357",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.907139203358692,
+          52.03894442919751
+        ]
+      },
+      "properties": {
+        "directionCity": "Kraków",
+        "id": "358",
+        "branch": "Warszawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.107826,
+          51.189079
+        ]
+      },
+      "properties": {
+        "directionCity": "Zgorzelec",
+        "id": "359",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.112368,
+          51.189525
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "360",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.59605,
+          51.317383
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "361",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.253442,
+          50.845752
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "362",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.254506,
+          50.843726
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "363",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.346069,
+          51.247694
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "364",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.344568,
+          51.247859
+        ]
+      },
+      "properties": {
+        "directionCity": "Jędrzychowice",
+        "id": "365",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.076669,
+          50.956542
+        ]
+      },
+      "properties": {
+        "directionCity": "Katowice",
+        "id": "366",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.078048,
+          50.956366
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "367",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.201421,
+          51.225374
+        ]
+      },
+      "properties": {
+        "directionCity": "Kępno",
+        "id": "368",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.206294,
+          51.226879
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "369",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.499421,
+          51.23949
+        ]
+      },
+      "properties": {
+        "directionCity": "Kępno",
+        "id": "370",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.499344,
+          51.240855
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "371",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.733567,
+          51.294348
+        ]
+      },
+      "properties": {
+        "directionCity": "Kępno",
+        "id": "372",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.741484,
+          51.297167
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "373",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.900365,
+          51.435509
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "374",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898498,
+          51.437074
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "375",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.045169,
+          51.260579
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "376",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.043523,
+          51.260999
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "377",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.214553,
+          51.072637
+        ]
+      },
+      "properties": {
+        "directionCity": "Legnica",
+        "id": "378",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.212628,
+          51.072914
+        ]
+      },
+      "properties": {
+        "directionCity": "Lubawka",
+        "id": "379",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.12071,
+          51.460005
+        ]
+      },
+      "properties": {
+        "directionCity": "Zielona Góra",
+        "id": "380",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.076955,
+          51.523847
+        ]
+      },
+      "properties": {
+        "directionCity": "Lubawka",
+        "id": "381",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.151218,
+          51.284033
+        ]
+      },
+      "properties": {
+        "directionCity": "Zielona Góra",
+        "id": "382",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.149927,
+          51.284075
+        ]
+      },
+      "properties": {
+        "directionCity": "Lubawka",
+        "id": "383",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0902111902467,
+          50.8193969690594
+        ]
+      },
+      "properties": {
+        "directionCity": "Legnica",
+        "id": "384",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0870740621786,
+          50.8196407967969
+        ]
+      },
+      "properties": {
+        "directionCity": "Lubawka",
+        "id": "385",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.811404,
+          51.267108
+        ]
+      },
+      "properties": {
+        "directionCity": "Zgorzelec",
+        "id": "386",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.974848,
+          51.221239
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "387",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.980626,
+          51.219088
+        ]
+      },
+      "properties": {
+        "directionCity": "Zgorzelec",
+        "id": "388",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.230906,
+          51.153361
+        ]
+      },
+      "properties": {
+        "directionCity": "Zgorzelec",
+        "id": "389",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.518185,
+          51.060375
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "390",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.648185,
+          51.030607
+        ]
+      },
+      "properties": {
+        "directionCity": "Zgorzelec",
+        "id": "391",
+        "branch": "Wrocław"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.650901,
+          52.325738
+        ]
+      },
+      "properties": {
+        "directionCity": "Berlin",
+        "id": "392",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.654801,
+          52.323889
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "393",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.162941,
+          52.324776
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "394",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.162475,
+          52.326495
+        ]
+      },
+      "properties": {
+        "directionCity": "Berlin",
+        "id": "395",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.781716,
+          52.313732
+        ]
+      },
+      "properties": {
+        "directionCity": "Berlin",
+        "id": "396",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.782832,
+          52.312299
+        ]
+      },
+      "properties": {
+        "directionCity": "Poznań",
+        "id": "397",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.11818,
+          52.786914
+        ]
+      },
+      "properties": {
+        "directionCity": "Gorzów Wlkp.",
+        "id": "398",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.119714,
+          52.786972
+        ]
+      },
+      "properties": {
+        "directionCity": "Szczecin",
+        "id": "399",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.54007,
+          52.542343
+        ]
+      },
+      "properties": {
+        "directionCity": "Międzyrzecz",
+        "id": "400",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.542167,
+          52.5419
+        ]
+      },
+      "properties": {
+        "directionCity": "Skwierzyna",
+        "id": "401",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.575289,
+          52.136062
+        ]
+      },
+      "properties": {
+        "directionCity": "Zielona Góra",
+        "id": "402",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.577357,
+          52.135048
+        ]
+      },
+      "properties": {
+        "directionCity": "Świebodzin",
+        "id": "403",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.827595,
+          51.648982
+        ]
+      },
+      "properties": {
+        "directionCity": "Berlin",
+        "id": "404",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.826666,
+          51.648513
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "405",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.70465,
+          51.74754
+        ]
+      },
+      "properties": {
+        "directionCity": "Zielona Góra",
+        "id": "406",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.70235,
+          51.74752
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "407",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.58967,
+          51.9055
+        ]
+      },
+      "properties": {
+        "directionCity": "Zielona Góra",
+        "id": "408",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5874,
+          51.904617
+        ]
+      },
+      "properties": {
+        "directionCity": "Zielona Góra",
+        "id": "409",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.60939351,
+          52.00947951
+        ]
+      },
+      "properties": {
+        "directionCity": "Zielona Góra",
+        "id": "410",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.61031162,
+          52.00815379
+        ]
+      },
+      "properties": {
+        "directionCity": "Gorzów Wlkp.",
+        "id": "411",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.83133942,
+          51.65678738
+        ]
+      },
+      "properties": {
+        "directionCity": "Wrocław",
+        "id": "412",
+        "branch": "Zielona Góra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.83702223,
+          51.65553619
+        ]
+      },
+      "properties": {
+        "directionCity": "Zielona Góra",
+        "id": "413",
+        "branch": "Zielona Góra"
+      }
+    }
+  ]
+}

@@ -1401,13 +1401,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.10589,
+          49.938473
+        ]
+      },
+      "properties": {
+        "directionCity": "Zwardoń",
+        "id": "94",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.10589,
+          49.938473
+        ]
+      },
+      "properties": {
+        "directionCity": "Łódź",
+        "id": "95",
+        "branch": "Katowice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           20.816958,
           51.030799
         ]
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "94",
+        "id": "96",
         "branch": "Kielce"
       }
     },
@@ -1422,7 +1452,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "95",
+        "id": "97",
         "branch": "Kielce"
       }
     },
@@ -1437,7 +1467,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "96",
+        "id": "98",
         "branch": "Kielce"
       }
     },
@@ -1452,7 +1482,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "97",
+        "id": "99",
         "branch": "Kielce"
       }
     },
@@ -1467,7 +1497,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "98",
+        "id": "100",
         "branch": "Kielce"
       }
     },
@@ -1482,7 +1512,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "99",
+        "id": "101",
         "branch": "Kielce"
       }
     },
@@ -1497,7 +1527,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "100",
+        "id": "102",
         "branch": "Kielce"
       }
     },
@@ -1512,7 +1542,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "101",
+        "id": "103",
         "branch": "Kielce"
       }
     },
@@ -1527,7 +1557,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "102",
+        "id": "104",
         "branch": "Kielce"
       }
     },
@@ -1542,7 +1572,7 @@
       },
       "properties": {
         "directionCity": "Tarnów",
-        "id": "103",
+        "id": "105",
         "branch": "Kraków"
       }
     },
@@ -1557,7 +1587,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "104",
+        "id": "106",
         "branch": "Kraków"
       }
     },
@@ -1572,7 +1602,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "105",
+        "id": "107",
         "branch": "Kraków"
       }
     },
@@ -1587,7 +1617,7 @@
       },
       "properties": {
         "directionCity": "Tarnów",
-        "id": "106",
+        "id": "108",
         "branch": "Kraków"
       }
     },
@@ -1602,7 +1632,7 @@
       },
       "properties": {
         "directionCity": "Tarnów",
-        "id": "107",
+        "id": "109",
         "branch": "Kraków"
       }
     },
@@ -1617,7 +1647,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "108",
+        "id": "110",
         "branch": "Kraków"
       }
     },
@@ -1632,7 +1662,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "109",
+        "id": "111",
         "branch": "Kraków"
       }
     },
@@ -1647,7 +1677,7 @@
       },
       "properties": {
         "directionCity": "Tarnów",
-        "id": "110",
+        "id": "112",
         "branch": "Kraków"
       }
     },
@@ -1662,7 +1692,7 @@
       },
       "properties": {
         "directionCity": "Kielce",
-        "id": "111",
+        "id": "113",
         "branch": "Kraków"
       }
     },
@@ -1677,7 +1707,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "112",
+        "id": "114",
         "branch": "Kraków"
       }
     },
@@ -1692,7 +1722,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "113",
+        "id": "115",
         "branch": "Kraków"
       }
     },
@@ -1707,7 +1737,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "114",
+        "id": "116",
         "branch": "Kraków"
       }
     },
@@ -1722,7 +1752,7 @@
       },
       "properties": {
         "directionCity": "Chyżne",
-        "id": "115",
+        "id": "117",
         "branch": "Kraków"
       }
     },
@@ -1737,7 +1767,7 @@
       },
       "properties": {
         "directionCity": "Kielce",
-        "id": "116",
+        "id": "118",
         "branch": "Kraków"
       }
     },
@@ -1752,7 +1782,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "117",
+        "id": "119",
         "branch": "Kraków"
       }
     },
@@ -1767,7 +1797,7 @@
       },
       "properties": {
         "directionCity": "Kielce",
-        "id": "118",
+        "id": "120",
         "branch": "Kraków"
       }
     },
@@ -1782,7 +1812,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "119",
+        "id": "121",
         "branch": "Lublin"
       }
     },
@@ -1797,7 +1827,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "120",
+        "id": "122",
         "branch": "Lublin"
       }
     },
@@ -1812,7 +1842,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "121",
+        "id": "123",
         "branch": "Lublin"
       }
     },
@@ -1827,7 +1857,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "122",
+        "id": "124",
         "branch": "Lublin"
       }
     },
@@ -1842,7 +1872,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "123",
+        "id": "125",
         "branch": "Lublin"
       }
     },
@@ -1857,7 +1887,7 @@
       },
       "properties": {
         "directionCity": "Rzeszów",
-        "id": "124",
+        "id": "126",
         "branch": "Lublin"
       }
     },
@@ -1872,7 +1902,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "125",
+        "id": "127",
         "branch": "Lublin"
       }
     },
@@ -1887,7 +1917,7 @@
       },
       "properties": {
         "directionCity": "Rzeszów",
-        "id": "126",
+        "id": "128",
         "branch": "Lublin"
       }
     },
@@ -1902,7 +1932,7 @@
       },
       "properties": {
         "directionCity": "Piaski",
-        "id": "127",
+        "id": "129",
         "branch": "Lublin"
       }
     },
@@ -1917,7 +1947,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "128",
+        "id": "130",
         "branch": "Lublin"
       }
     },
@@ -1932,7 +1962,7 @@
       },
       "properties": {
         "directionCity": "Rzeszów",
-        "id": "129",
+        "id": "131",
         "branch": "Lublin"
       }
     },
@@ -1947,7 +1977,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "130",
+        "id": "132",
         "branch": "Lublin"
       }
     },
@@ -1962,7 +1992,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "131",
+        "id": "133",
         "branch": "Lublin"
       }
     },
@@ -1977,7 +2007,7 @@
       },
       "properties": {
         "directionCity": "Rzeszów",
-        "id": "132",
+        "id": "134",
         "branch": "Lublin"
       }
     },
@@ -1992,7 +2022,7 @@
       },
       "properties": {
         "directionCity": "Rzeszów",
-        "id": "133",
+        "id": "135",
         "branch": "Lublin"
       }
     },
@@ -2007,7 +2037,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "134",
+        "id": "136",
         "branch": "Lublin"
       }
     },
@@ -2022,7 +2052,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "135",
+        "id": "137",
         "branch": "Lublin"
       }
     },
@@ -2037,7 +2067,7 @@
       },
       "properties": {
         "directionCity": "Rzeszów",
-        "id": "136",
+        "id": "138",
         "branch": "Lublin"
       }
     },
@@ -2052,7 +2082,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "137",
+        "id": "139",
         "branch": "Łódź"
       }
     },
@@ -2067,7 +2097,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "138",
+        "id": "140",
         "branch": "Łódź"
       }
     },
@@ -2082,7 +2112,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "139",
+        "id": "141",
         "branch": "Łódź"
       }
     },
@@ -2097,7 +2127,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "140",
+        "id": "142",
         "branch": "Łódź"
       }
     },
@@ -2112,7 +2142,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "141",
+        "id": "143",
         "branch": "Łódź"
       }
     },
@@ -2127,7 +2157,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "142",
+        "id": "144",
         "branch": "Łódź"
       }
     },
@@ -2142,7 +2172,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "143",
+        "id": "145",
         "branch": "Łódź"
       }
     },
@@ -2157,7 +2187,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "144",
+        "id": "146",
         "branch": "Łódź"
       }
     },
@@ -2172,7 +2202,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "145",
+        "id": "147",
         "branch": "Łódź"
       }
     },
@@ -2187,7 +2217,7 @@
       },
       "properties": {
         "directionCity": "Łódź",
-        "id": "146",
+        "id": "148",
         "branch": "Łódź"
       }
     },
@@ -2202,7 +2232,7 @@
       },
       "properties": {
         "directionCity": "Łódź",
-        "id": "147",
+        "id": "149",
         "branch": "Łódź"
       }
     },
@@ -2217,7 +2247,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "148",
+        "id": "150",
         "branch": "Łódź"
       }
     },
@@ -2232,7 +2262,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "149",
+        "id": "151",
         "branch": "Łódź"
       }
     },
@@ -2247,7 +2277,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "150",
+        "id": "152",
         "branch": "Łódź"
       }
     },
@@ -2262,7 +2292,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "151",
+        "id": "153",
         "branch": "Łódź"
       }
     },
@@ -2277,7 +2307,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "152",
+        "id": "154",
         "branch": "Łódź"
       }
     },
@@ -2292,7 +2322,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "153",
+        "id": "155",
         "branch": "Łódź"
       }
     },
@@ -2307,7 +2337,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "154",
+        "id": "156",
         "branch": "Łódź"
       }
     },
@@ -2322,7 +2352,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "155",
+        "id": "157",
         "branch": "Łódź"
       }
     },
@@ -2337,7 +2367,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "156",
+        "id": "158",
         "branch": "Łódź"
       }
     },
@@ -2352,7 +2382,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "157",
+        "id": "159",
         "branch": "Łódź"
       }
     },
@@ -2367,7 +2397,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "158",
+        "id": "160",
         "branch": "Łódź"
       }
     },
@@ -2382,7 +2412,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "159",
+        "id": "161",
         "branch": "Łódź"
       }
     },
@@ -2397,7 +2427,7 @@
       },
       "properties": {
         "directionCity": "Łódź",
-        "id": "160",
+        "id": "162",
         "branch": "Łódź"
       }
     },
@@ -2412,7 +2442,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "161",
+        "id": "163",
         "branch": "Łódź"
       }
     },
@@ -2427,7 +2457,7 @@
       },
       "properties": {
         "directionCity": "Łódź",
-        "id": "162",
+        "id": "164",
         "branch": "Łódź"
       }
     },
@@ -2442,7 +2472,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "163",
+        "id": "165",
         "branch": "Łódź"
       }
     },
@@ -2457,7 +2487,7 @@
       },
       "properties": {
         "directionCity": "Łódź",
-        "id": "164",
+        "id": "166",
         "branch": "Łódź"
       }
     },
@@ -2472,7 +2502,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "165",
+        "id": "167",
         "branch": "Łódź"
       }
     },
@@ -2487,7 +2517,7 @@
       },
       "properties": {
         "directionCity": "Łódź",
-        "id": "166",
+        "id": "168",
         "branch": "Łódź"
       }
     },
@@ -2502,7 +2532,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "167",
+        "id": "169",
         "branch": "Łódź"
       }
     },
@@ -2517,7 +2547,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "168",
+        "id": "170",
         "branch": "Łódź"
       }
     },
@@ -2532,7 +2562,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "169",
+        "id": "171",
         "branch": "Łódź"
       }
     },
@@ -2547,7 +2577,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "170",
+        "id": "172",
         "branch": "Łódź"
       }
     },
@@ -2562,7 +2592,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "171",
+        "id": "173",
         "branch": "Łódź"
       }
     },
@@ -2577,7 +2607,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "172",
+        "id": "174",
         "branch": "Łódź"
       }
     },
@@ -2592,7 +2622,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "173",
+        "id": "175",
         "branch": "Łódź"
       }
     },
@@ -2607,7 +2637,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "174",
+        "id": "176",
         "branch": "Łódź"
       }
     },
@@ -2622,7 +2652,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "175",
+        "id": "177",
         "branch": "Łódź"
       }
     },
@@ -2637,7 +2667,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "176",
+        "id": "178",
         "branch": "Łódź"
       }
     },
@@ -2652,7 +2682,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "177",
+        "id": "179",
         "branch": "Łódź"
       }
     },
@@ -2667,7 +2697,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "178",
+        "id": "180",
         "branch": "Łódź"
       }
     },
@@ -2682,7 +2712,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "179",
+        "id": "181",
         "branch": "Łódź"
       }
     },
@@ -2697,7 +2727,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "180",
+        "id": "182",
         "branch": "Łódź"
       }
     },
@@ -2712,7 +2742,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "181",
+        "id": "183",
         "branch": "Łódź"
       }
     },
@@ -2727,7 +2757,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "182",
+        "id": "184",
         "branch": "Łódź"
       }
     },
@@ -2742,7 +2772,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "183",
+        "id": "185",
         "branch": "Łódź"
       }
     },
@@ -2757,7 +2787,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "184",
+        "id": "186",
         "branch": "Łódź"
       }
     },
@@ -2772,7 +2802,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "185",
+        "id": "187",
         "branch": "Łódź"
       }
     },
@@ -2787,7 +2817,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "186",
+        "id": "188",
         "branch": "Łódź"
       }
     },
@@ -2802,7 +2832,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "187",
+        "id": "189",
         "branch": "Łódź"
       }
     },
@@ -2817,7 +2847,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "188",
+        "id": "190",
         "branch": "Łódź"
       }
     },
@@ -2832,7 +2862,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "189",
+        "id": "191",
         "branch": "Łódź"
       }
     },
@@ -2847,7 +2877,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "190",
+        "id": "192",
         "branch": "Łódź"
       }
     },
@@ -2862,7 +2892,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "191",
+        "id": "193",
         "branch": "Olsztyn"
       }
     },
@@ -2877,7 +2907,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "192",
+        "id": "194",
         "branch": "Olsztyn"
       }
     },
@@ -2892,7 +2922,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "193",
+        "id": "195",
         "branch": "Olsztyn"
       }
     },
@@ -2907,7 +2937,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "194",
+        "id": "196",
         "branch": "Olsztyn"
       }
     },
@@ -2922,7 +2952,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "195",
+        "id": "197",
         "branch": "Olsztyn"
       }
     },
@@ -2937,7 +2967,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "196",
+        "id": "198",
         "branch": "Olsztyn"
       }
     },
@@ -2952,7 +2982,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "197",
+        "id": "199",
         "branch": "Olsztyn"
       }
     },
@@ -2967,7 +2997,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "198",
+        "id": "200",
         "branch": "Olsztyn"
       }
     },
@@ -2982,7 +3012,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "199",
+        "id": "201",
         "branch": "Olsztyn"
       }
     },
@@ -2997,7 +3027,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "200",
+        "id": "202",
         "branch": "Olsztyn"
       }
     },
@@ -3012,7 +3042,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "201",
+        "id": "203",
         "branch": "Olsztyn"
       }
     },
@@ -3027,7 +3057,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "202",
+        "id": "204",
         "branch": "Olsztyn"
       }
     },
@@ -3042,7 +3072,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "203",
+        "id": "205",
         "branch": "Olsztyn"
       }
     },
@@ -3057,7 +3087,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "204",
+        "id": "206",
         "branch": "Olsztyn"
       }
     },
@@ -3072,7 +3102,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "205",
+        "id": "207",
         "branch": "Olsztyn"
       }
     },
@@ -3087,7 +3117,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "206",
+        "id": "208",
         "branch": "Olsztyn"
       }
     },
@@ -3102,7 +3132,7 @@
       },
       "properties": {
         "directionCity": "Ełk",
-        "id": "207",
+        "id": "209",
         "branch": "Olsztyn"
       }
     },
@@ -3117,7 +3147,7 @@
       },
       "properties": {
         "directionCity": "Ostrów Mazowiecka",
-        "id": "208",
+        "id": "210",
         "branch": "Olsztyn"
       }
     },
@@ -3132,7 +3162,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "209",
+        "id": "211",
         "branch": "Opole"
       }
     },
@@ -3147,7 +3177,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "210",
+        "id": "212",
         "branch": "Opole"
       }
     },
@@ -3162,7 +3192,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "211",
+        "id": "213",
         "branch": "Opole"
       }
     },
@@ -3177,7 +3207,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "212",
+        "id": "214",
         "branch": "Opole"
       }
     },
@@ -3192,7 +3222,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "213",
+        "id": "215",
         "branch": "Opole"
       }
     },
@@ -3207,7 +3237,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "214",
+        "id": "216",
         "branch": "Opole"
       }
     },
@@ -3222,7 +3252,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "215",
+        "id": "217",
         "branch": "Opole"
       }
     },
@@ -3237,7 +3267,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "216",
+        "id": "218",
         "branch": "Opole"
       }
     },
@@ -3252,7 +3282,7 @@
       },
       "properties": {
         "directionCity": "Berlin",
-        "id": "217",
+        "id": "219",
         "branch": "Poznań"
       }
     },
@@ -3267,7 +3297,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "218",
+        "id": "220",
         "branch": "Poznań"
       }
     },
@@ -3282,7 +3312,7 @@
       },
       "properties": {
         "directionCity": "Berlin",
-        "id": "219",
+        "id": "221",
         "branch": "Poznań"
       }
     },
@@ -3297,7 +3327,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "220",
+        "id": "222",
         "branch": "Poznań"
       }
     },
@@ -3312,7 +3342,7 @@
       },
       "properties": {
         "directionCity": "Berlin",
-        "id": "221",
+        "id": "223",
         "branch": "Poznań"
       }
     },
@@ -3327,7 +3357,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "222",
+        "id": "224",
         "branch": "Poznań"
       }
     },
@@ -3342,7 +3372,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "223",
+        "id": "225",
         "branch": "Poznań"
       }
     },
@@ -3357,7 +3387,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "224",
+        "id": "226",
         "branch": "Poznań"
       }
     },
@@ -3372,7 +3402,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "225",
+        "id": "227",
         "branch": "Poznań"
       }
     },
@@ -3387,7 +3417,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "226",
+        "id": "228",
         "branch": "Poznań"
       }
     },
@@ -3402,7 +3432,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "227",
+        "id": "229",
         "branch": "Poznań"
       }
     },
@@ -3417,7 +3447,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "228",
+        "id": "230",
         "branch": "Poznań"
       }
     },
@@ -3432,7 +3462,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "229",
+        "id": "231",
         "branch": "Poznań"
       }
     },
@@ -3447,7 +3477,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "230",
+        "id": "232",
         "branch": "Poznań"
       }
     },
@@ -3462,7 +3492,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "231",
+        "id": "233",
         "branch": "Poznań"
       }
     },
@@ -3477,7 +3507,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "232",
+        "id": "234",
         "branch": "Poznań"
       }
     },
@@ -3492,7 +3522,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "233",
+        "id": "235",
         "branch": "Poznań"
       }
     },
@@ -3507,7 +3537,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "234",
+        "id": "236",
         "branch": "Poznań"
       }
     },
@@ -3522,7 +3552,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "235",
+        "id": "237",
         "branch": "Poznań"
       }
     },
@@ -3537,7 +3567,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "236",
+        "id": "238",
         "branch": "Poznań"
       }
     },
@@ -3552,7 +3582,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "237",
+        "id": "239",
         "branch": "Poznań"
       }
     },
@@ -3567,7 +3597,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "238",
+        "id": "240",
         "branch": "Poznań"
       }
     },
@@ -3582,7 +3612,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "239",
+        "id": "241",
         "branch": "Poznań"
       }
     },
@@ -3597,7 +3627,7 @@
       },
       "properties": {
         "directionCity": "Bydgoszcz",
-        "id": "240",
+        "id": "242",
         "branch": "Poznań"
       }
     },
@@ -3612,7 +3642,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "241",
+        "id": "243",
         "branch": "Poznań"
       }
     },
@@ -3627,7 +3657,7 @@
       },
       "properties": {
         "directionCity": "Bydgoszcz",
-        "id": "242",
+        "id": "244",
         "branch": "Poznań"
       }
     },
@@ -3642,7 +3672,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "243",
+        "id": "245",
         "branch": "Poznań"
       }
     },
@@ -3657,7 +3687,7 @@
       },
       "properties": {
         "directionCity": "Bydgoszcz",
-        "id": "244",
+        "id": "246",
         "branch": "Poznań"
       }
     },
@@ -3672,7 +3702,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "245",
+        "id": "247",
         "branch": "Poznań"
       }
     },
@@ -3687,7 +3717,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "246",
+        "id": "248",
         "branch": "Poznań"
       }
     },
@@ -3702,7 +3732,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "247",
+        "id": "249",
         "branch": "Poznań"
       }
     },
@@ -3717,7 +3747,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "248",
+        "id": "250",
         "branch": "Poznań"
       }
     },
@@ -3732,7 +3762,7 @@
       },
       "properties": {
         "directionCity": "Bydgoszcz",
-        "id": "249",
+        "id": "251",
         "branch": "Poznań"
       }
     },
@@ -3747,7 +3777,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "250",
+        "id": "252",
         "branch": "Poznań"
       }
     },
@@ -3762,7 +3792,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "251",
+        "id": "253",
         "branch": "Poznań"
       }
     },
@@ -3777,7 +3807,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "252",
+        "id": "254",
         "branch": "Poznań"
       }
     },
@@ -3792,7 +3822,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "253",
+        "id": "255",
         "branch": "Poznań"
       }
     },
@@ -3807,7 +3837,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "254",
+        "id": "256",
         "branch": "Poznań"
       }
     },
@@ -3822,7 +3852,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "255",
+        "id": "257",
         "branch": "Poznań"
       }
     },
@@ -3837,7 +3867,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "256",
+        "id": "258",
         "branch": "Poznań"
       }
     },
@@ -3852,7 +3882,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "257",
+        "id": "259",
         "branch": "Poznań"
       }
     },
@@ -3867,7 +3897,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "258",
+        "id": "260",
         "branch": "Poznań"
       }
     },
@@ -3882,7 +3912,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "259",
+        "id": "261",
         "branch": "Poznań"
       }
     },
@@ -3897,7 +3927,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "260",
+        "id": "262",
         "branch": "Poznań"
       }
     },
@@ -3912,7 +3942,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "261",
+        "id": "263",
         "branch": "Poznań"
       }
     },
@@ -3927,7 +3957,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "262",
+        "id": "264",
         "branch": "Poznań"
       }
     },
@@ -3942,7 +3972,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "263",
+        "id": "265",
         "branch": "Poznań"
       }
     },
@@ -3957,7 +3987,7 @@
       },
       "properties": {
         "directionCity": "Jędrzychowice",
-        "id": "264",
+        "id": "266",
         "branch": "Rzeszów"
       }
     },
@@ -3972,7 +4002,7 @@
       },
       "properties": {
         "directionCity": "Korczowa",
-        "id": "265",
+        "id": "267",
         "branch": "Rzeszów"
       }
     },
@@ -3987,7 +4017,7 @@
       },
       "properties": {
         "directionCity": "Korczowa",
-        "id": "266",
+        "id": "268",
         "branch": "Rzeszów"
       }
     },
@@ -4002,7 +4032,7 @@
       },
       "properties": {
         "directionCity": "Jędrzychowice",
-        "id": "267",
+        "id": "269",
         "branch": "Rzeszów"
       }
     },
@@ -4017,7 +4047,7 @@
       },
       "properties": {
         "directionCity": "Korczowa",
-        "id": "268",
+        "id": "270",
         "branch": "Rzeszów"
       }
     },
@@ -4032,7 +4062,7 @@
       },
       "properties": {
         "directionCity": "Jędrzychowice",
-        "id": "269",
+        "id": "271",
         "branch": "Rzeszów"
       }
     },
@@ -4047,7 +4077,7 @@
       },
       "properties": {
         "directionCity": "Jędrzychowice",
-        "id": "270",
+        "id": "272",
         "branch": "Rzeszów"
       }
     },
@@ -4062,7 +4092,7 @@
       },
       "properties": {
         "directionCity": "Korczowa",
-        "id": "271",
+        "id": "273",
         "branch": "Rzeszów"
       }
     },
@@ -4077,7 +4107,7 @@
       },
       "properties": {
         "directionCity": "Jędrzychowice",
-        "id": "272",
+        "id": "274",
         "branch": "Rzeszów"
       }
     },
@@ -4092,7 +4122,7 @@
       },
       "properties": {
         "directionCity": "Korczowa",
-        "id": "273",
+        "id": "275",
         "branch": "Rzeszów"
       }
     },
@@ -4107,7 +4137,7 @@
       },
       "properties": {
         "directionCity": "Jędrzychowice",
-        "id": "274",
+        "id": "276",
         "branch": "Rzeszów"
       }
     },
@@ -4122,7 +4152,7 @@
       },
       "properties": {
         "directionCity": "Korczowa",
-        "id": "275",
+        "id": "277",
         "branch": "Rzeszów"
       }
     },
@@ -4137,7 +4167,7 @@
       },
       "properties": {
         "directionCity": "Jędrzychowice",
-        "id": "276",
+        "id": "278",
         "branch": "Rzeszów"
       }
     },
@@ -4152,7 +4182,7 @@
       },
       "properties": {
         "directionCity": "Korczowa",
-        "id": "277",
+        "id": "279",
         "branch": "Rzeszów"
       }
     },
@@ -4167,7 +4197,7 @@
       },
       "properties": {
         "directionCity": "Jędrzychowice",
-        "id": "278",
+        "id": "280",
         "branch": "Rzeszów"
       }
     },
@@ -4182,7 +4212,7 @@
       },
       "properties": {
         "directionCity": "Korczowa",
-        "id": "279",
+        "id": "281",
         "branch": "Rzeszów"
       }
     },
@@ -4197,7 +4227,7 @@
       },
       "properties": {
         "directionCity": "Rzeszów",
-        "id": "280",
+        "id": "282",
         "branch": "Rzeszów"
       }
     },
@@ -4212,7 +4242,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "281",
+        "id": "283",
         "branch": "Rzeszów"
       }
     },
@@ -4227,7 +4257,7 @@
       },
       "properties": {
         "directionCity": "Rzeszów",
-        "id": "282",
+        "id": "284",
         "branch": "Rzeszów"
       }
     },
@@ -4242,7 +4272,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "283",
+        "id": "285",
         "branch": "Rzeszów"
       }
     },
@@ -4257,7 +4287,7 @@
       },
       "properties": {
         "directionCity": "Rzeszów",
-        "id": "284",
+        "id": "286",
         "branch": "Rzeszów"
       }
     },
@@ -4272,7 +4302,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "285",
+        "id": "287",
         "branch": "Rzeszów"
       }
     },
@@ -4287,7 +4317,7 @@
       },
       "properties": {
         "directionCity": "Świnoujuście",
-        "id": "286",
+        "id": "288",
         "branch": "Szczecin"
       }
     },
@@ -4302,7 +4332,7 @@
       },
       "properties": {
         "directionCity": "Gorzów Wlkp.",
-        "id": "287",
+        "id": "289",
         "branch": "Szczecin"
       }
     },
@@ -4317,7 +4347,7 @@
       },
       "properties": {
         "directionCity": "Berlin",
-        "id": "288",
+        "id": "290",
         "branch": "Szczecin"
       }
     },
@@ -4332,7 +4362,7 @@
       },
       "properties": {
         "directionCity": "Szczecin",
-        "id": "289",
+        "id": "291",
         "branch": "Szczecin"
       }
     },
@@ -4347,7 +4377,7 @@
       },
       "properties": {
         "directionCity": "Berlin",
-        "id": "290",
+        "id": "292",
         "branch": "Szczecin"
       }
     },
@@ -4362,7 +4392,7 @@
       },
       "properties": {
         "directionCity": "Gorzów Wlkp.",
-        "id": "291",
+        "id": "293",
         "branch": "Szczecin"
       }
     },
@@ -4377,7 +4407,7 @@
       },
       "properties": {
         "directionCity": "Szczecin",
-        "id": "292",
+        "id": "294",
         "branch": "Szczecin"
       }
     },
@@ -4392,7 +4422,7 @@
       },
       "properties": {
         "directionCity": "Gorzów Wlkp.",
-        "id": "293",
+        "id": "295",
         "branch": "Szczecin"
       }
     },
@@ -4407,7 +4437,7 @@
       },
       "properties": {
         "directionCity": "Szczecin",
-        "id": "294",
+        "id": "296",
         "branch": "Szczecin"
       }
     },
@@ -4422,7 +4452,7 @@
       },
       "properties": {
         "directionCity": "Szczecin",
-        "id": "295",
+        "id": "297",
         "branch": "Szczecin"
       }
     },
@@ -4437,7 +4467,7 @@
       },
       "properties": {
         "directionCity": "Gorzów Wlkp.",
-        "id": "296",
+        "id": "298",
         "branch": "Szczecin"
       }
     },
@@ -4452,7 +4482,7 @@
       },
       "properties": {
         "directionCity": "Koszalin",
-        "id": "297",
+        "id": "299",
         "branch": "Szczecin"
       }
     },
@@ -4467,7 +4497,7 @@
       },
       "properties": {
         "directionCity": "Szczecin",
-        "id": "298",
+        "id": "300",
         "branch": "Szczecin"
       }
     },
@@ -4482,7 +4512,7 @@
       },
       "properties": {
         "directionCity": "Szczecin",
-        "id": "299",
+        "id": "301",
         "branch": "Szczecin"
       }
     },
@@ -4497,7 +4527,7 @@
       },
       "properties": {
         "directionCity": "Koszalin",
-        "id": "300",
+        "id": "302",
         "branch": "Szczecin"
       }
     },
@@ -4512,7 +4542,7 @@
       },
       "properties": {
         "directionCity": "Szczecin",
-        "id": "301",
+        "id": "303",
         "branch": "Szczecin"
       }
     },
@@ -4527,7 +4557,7 @@
       },
       "properties": {
         "directionCity": "Koszalin",
-        "id": "302",
+        "id": "304",
         "branch": "Szczecin"
       }
     },
@@ -4542,7 +4572,7 @@
       },
       "properties": {
         "directionCity": "Kołbaskowo",
-        "id": "303",
+        "id": "305",
         "branch": "Szczecin"
       }
     },
@@ -4557,7 +4587,7 @@
       },
       "properties": {
         "directionCity": "Świnoujuście",
-        "id": "304",
+        "id": "306",
         "branch": "Szczecin"
       }
     },
@@ -4572,7 +4602,7 @@
       },
       "properties": {
         "directionCity": "Szczecinek",
-        "id": "305",
+        "id": "307",
         "branch": "Szczecin"
       }
     },
@@ -4587,7 +4617,7 @@
       },
       "properties": {
         "directionCity": "Koszalin",
-        "id": "306",
+        "id": "308",
         "branch": "Szczecin"
       }
     },
@@ -4602,7 +4632,7 @@
       },
       "properties": {
         "directionCity": "Szczecinek",
-        "id": "307",
+        "id": "309",
         "branch": "Szczecin"
       }
     },
@@ -4617,7 +4647,7 @@
       },
       "properties": {
         "directionCity": "Koszalin",
-        "id": "308",
+        "id": "310",
         "branch": "Szczecin"
       }
     },
@@ -4632,7 +4662,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "309",
+        "id": "311",
         "branch": "Warszawa"
       }
     },
@@ -4647,7 +4677,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "310",
+        "id": "312",
         "branch": "Warszawa"
       }
     },
@@ -4662,7 +4692,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "311",
+        "id": "313",
         "branch": "Warszawa"
       }
     },
@@ -4677,7 +4707,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "312",
+        "id": "314",
         "branch": "Warszawa"
       }
     },
@@ -4692,7 +4722,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "313",
+        "id": "315",
         "branch": "Warszawa"
       }
     },
@@ -4707,7 +4737,7 @@
       },
       "properties": {
         "directionCity": "Terespol",
-        "id": "314",
+        "id": "316",
         "branch": "Warszawa"
       }
     },
@@ -4722,7 +4752,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "315",
+        "id": "317",
         "branch": "Warszawa"
       }
     },
@@ -4737,7 +4767,7 @@
       },
       "properties": {
         "directionCity": "Terespol",
-        "id": "316",
+        "id": "318",
         "branch": "Warszawa"
       }
     },
@@ -4752,7 +4782,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "317",
+        "id": "319",
         "branch": "Warszawa"
       }
     },
@@ -4767,7 +4797,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "318",
+        "id": "320",
         "branch": "Warszawa"
       }
     },
@@ -4782,7 +4812,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "319",
+        "id": "321",
         "branch": "Warszawa"
       }
     },
@@ -4797,7 +4827,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "320",
+        "id": "322",
         "branch": "Warszawa"
       }
     },
@@ -4812,7 +4842,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "321",
+        "id": "323",
         "branch": "Warszawa"
       }
     },
@@ -4827,7 +4857,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "322",
+        "id": "324",
         "branch": "Warszawa"
       }
     },
@@ -4842,7 +4872,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "323",
+        "id": "325",
         "branch": "Warszawa"
       }
     },
@@ -4857,7 +4887,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "324",
+        "id": "326",
         "branch": "Warszawa"
       }
     },
@@ -4872,7 +4902,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "325",
+        "id": "327",
         "branch": "Warszawa"
       }
     },
@@ -4887,7 +4917,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "326",
+        "id": "328",
         "branch": "Warszawa"
       }
     },
@@ -4902,7 +4932,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "327",
+        "id": "329",
         "branch": "Warszawa"
       }
     },
@@ -4917,7 +4947,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "328",
+        "id": "330",
         "branch": "Warszawa"
       }
     },
@@ -4932,7 +4962,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "329",
+        "id": "331",
         "branch": "Warszawa"
       }
     },
@@ -4947,7 +4977,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "330",
+        "id": "332",
         "branch": "Warszawa"
       }
     },
@@ -4962,7 +4992,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "331",
+        "id": "333",
         "branch": "Warszawa"
       }
     },
@@ -4977,7 +5007,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "332",
+        "id": "334",
         "branch": "Warszawa"
       }
     },
@@ -4992,7 +5022,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "333",
+        "id": "335",
         "branch": "Warszawa"
       }
     },
@@ -5007,7 +5037,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "334",
+        "id": "336",
         "branch": "Warszawa"
       }
     },
@@ -5022,7 +5052,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "335",
+        "id": "337",
         "branch": "Warszawa"
       }
     },
@@ -5037,7 +5067,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "336",
+        "id": "338",
         "branch": "Warszawa"
       }
     },
@@ -5052,7 +5082,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "337",
+        "id": "339",
         "branch": "Warszawa"
       }
     },
@@ -5067,7 +5097,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "338",
+        "id": "340",
         "branch": "Warszawa"
       }
     },
@@ -5082,7 +5112,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "339",
+        "id": "341",
         "branch": "Warszawa"
       }
     },
@@ -5097,7 +5127,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "340",
+        "id": "342",
         "branch": "Warszawa"
       }
     },
@@ -5112,7 +5142,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "341",
+        "id": "343",
         "branch": "Warszawa"
       }
     },
@@ -5127,7 +5157,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "342",
+        "id": "344",
         "branch": "Warszawa"
       }
     },
@@ -5142,7 +5172,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "343",
+        "id": "345",
         "branch": "Warszawa"
       }
     },
@@ -5157,7 +5187,7 @@
       },
       "properties": {
         "directionCity": "Białystok",
-        "id": "344",
+        "id": "346",
         "branch": "Warszawa"
       }
     },
@@ -5172,7 +5202,7 @@
       },
       "properties": {
         "directionCity": "Białystok",
-        "id": "345",
+        "id": "347",
         "branch": "Warszawa"
       }
     },
@@ -5187,7 +5217,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "346",
+        "id": "348",
         "branch": "Warszawa"
       }
     },
@@ -5202,7 +5232,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "347",
+        "id": "349",
         "branch": "Warszawa"
       }
     },
@@ -5217,7 +5247,7 @@
       },
       "properties": {
         "directionCity": "Białystok",
-        "id": "348",
+        "id": "350",
         "branch": "Warszawa"
       }
     },
@@ -5232,7 +5262,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "349",
+        "id": "351",
         "branch": "Warszawa"
       }
     },
@@ -5247,7 +5277,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "350",
+        "id": "352",
         "branch": "Warszawa"
       }
     },
@@ -5262,7 +5292,7 @@
       },
       "properties": {
         "directionCity": "Lublin",
-        "id": "351",
+        "id": "353",
         "branch": "Warszawa"
       }
     },
@@ -5277,7 +5307,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "352",
+        "id": "354",
         "branch": "Warszawa"
       }
     },
@@ -5292,7 +5322,7 @@
       },
       "properties": {
         "directionCity": "Gdańsk",
-        "id": "353",
+        "id": "355",
         "branch": "Warszawa"
       }
     },
@@ -5307,7 +5337,7 @@
       },
       "properties": {
         "directionCity": "Białystok",
-        "id": "354",
+        "id": "356",
         "branch": "Warszawa"
       }
     },
@@ -5322,7 +5352,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "355",
+        "id": "357",
         "branch": "Warszawa"
       }
     },
@@ -5337,7 +5367,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "356",
+        "id": "358",
         "branch": "Warszawa"
       }
     },
@@ -5352,7 +5382,7 @@
       },
       "properties": {
         "directionCity": "Warszawa",
-        "id": "357",
+        "id": "359",
         "branch": "Warszawa"
       }
     },
@@ -5367,7 +5397,7 @@
       },
       "properties": {
         "directionCity": "Kraków",
-        "id": "358",
+        "id": "360",
         "branch": "Warszawa"
       }
     },
@@ -5382,7 +5412,7 @@
       },
       "properties": {
         "directionCity": "Zgorzelec",
-        "id": "359",
+        "id": "361",
         "branch": "Wrocław"
       }
     },
@@ -5397,7 +5427,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "360",
+        "id": "362",
         "branch": "Wrocław"
       }
     },
@@ -5412,7 +5442,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "361",
+        "id": "363",
         "branch": "Wrocław"
       }
     },
@@ -5427,7 +5457,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "362",
+        "id": "364",
         "branch": "Wrocław"
       }
     },
@@ -5442,7 +5472,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "363",
+        "id": "365",
         "branch": "Wrocław"
       }
     },
@@ -5457,7 +5487,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "364",
+        "id": "366",
         "branch": "Wrocław"
       }
     },
@@ -5472,7 +5502,7 @@
       },
       "properties": {
         "directionCity": "Jędrzychowice",
-        "id": "365",
+        "id": "367",
         "branch": "Wrocław"
       }
     },
@@ -5487,7 +5517,7 @@
       },
       "properties": {
         "directionCity": "Katowice",
-        "id": "366",
+        "id": "368",
         "branch": "Wrocław"
       }
     },
@@ -5502,7 +5532,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "367",
+        "id": "369",
         "branch": "Wrocław"
       }
     },
@@ -5517,7 +5547,7 @@
       },
       "properties": {
         "directionCity": "Kępno",
-        "id": "368",
+        "id": "370",
         "branch": "Wrocław"
       }
     },
@@ -5532,7 +5562,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "369",
+        "id": "371",
         "branch": "Wrocław"
       }
     },
@@ -5547,7 +5577,7 @@
       },
       "properties": {
         "directionCity": "Kępno",
-        "id": "370",
+        "id": "372",
         "branch": "Wrocław"
       }
     },
@@ -5562,7 +5592,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "371",
+        "id": "373",
         "branch": "Wrocław"
       }
     },
@@ -5577,7 +5607,7 @@
       },
       "properties": {
         "directionCity": "Kępno",
-        "id": "372",
+        "id": "374",
         "branch": "Wrocław"
       }
     },
@@ -5592,7 +5622,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "373",
+        "id": "375",
         "branch": "Wrocław"
       }
     },
@@ -5607,7 +5637,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "374",
+        "id": "376",
         "branch": "Wrocław"
       }
     },
@@ -5622,7 +5652,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "375",
+        "id": "377",
         "branch": "Wrocław"
       }
     },
@@ -5637,7 +5667,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "376",
+        "id": "378",
         "branch": "Wrocław"
       }
     },
@@ -5652,7 +5682,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "377",
+        "id": "379",
         "branch": "Wrocław"
       }
     },
@@ -5667,7 +5697,7 @@
       },
       "properties": {
         "directionCity": "Legnica",
-        "id": "378",
+        "id": "380",
         "branch": "Wrocław"
       }
     },
@@ -5682,7 +5712,7 @@
       },
       "properties": {
         "directionCity": "Lubawka",
-        "id": "379",
+        "id": "381",
         "branch": "Wrocław"
       }
     },
@@ -5697,7 +5727,7 @@
       },
       "properties": {
         "directionCity": "Zielona Góra",
-        "id": "380",
+        "id": "382",
         "branch": "Wrocław"
       }
     },
@@ -5712,7 +5742,7 @@
       },
       "properties": {
         "directionCity": "Lubawka",
-        "id": "381",
+        "id": "383",
         "branch": "Wrocław"
       }
     },
@@ -5727,7 +5757,7 @@
       },
       "properties": {
         "directionCity": "Zielona Góra",
-        "id": "382",
+        "id": "384",
         "branch": "Wrocław"
       }
     },
@@ -5742,7 +5772,7 @@
       },
       "properties": {
         "directionCity": "Lubawka",
-        "id": "383",
+        "id": "385",
         "branch": "Wrocław"
       }
     },
@@ -5751,13 +5781,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.0902111902467,
-          50.8193969690594
+          16.090211,
+          50.819396
         ]
       },
       "properties": {
         "directionCity": "Legnica",
-        "id": "384",
+        "id": "386",
         "branch": "Wrocław"
       }
     },
@@ -5766,13 +5796,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.0870740621786,
-          50.8196407967969
+          16.087074,
+          50.81964
         ]
       },
       "properties": {
         "directionCity": "Lubawka",
-        "id": "385",
+        "id": "387",
         "branch": "Wrocław"
       }
     },
@@ -5787,7 +5817,7 @@
       },
       "properties": {
         "directionCity": "Zgorzelec",
-        "id": "386",
+        "id": "388",
         "branch": "Wrocław"
       }
     },
@@ -5802,7 +5832,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "387",
+        "id": "389",
         "branch": "Wrocław"
       }
     },
@@ -5817,7 +5847,7 @@
       },
       "properties": {
         "directionCity": "Zgorzelec",
-        "id": "388",
+        "id": "390",
         "branch": "Wrocław"
       }
     },
@@ -5832,7 +5862,7 @@
       },
       "properties": {
         "directionCity": "Zgorzelec",
-        "id": "389",
+        "id": "391",
         "branch": "Wrocław"
       }
     },
@@ -5847,7 +5877,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "390",
+        "id": "392",
         "branch": "Wrocław"
       }
     },
@@ -5862,7 +5892,7 @@
       },
       "properties": {
         "directionCity": "Zgorzelec",
-        "id": "391",
+        "id": "393",
         "branch": "Wrocław"
       }
     },
@@ -5877,7 +5907,7 @@
       },
       "properties": {
         "directionCity": "Berlin",
-        "id": "392",
+        "id": "394",
         "branch": "Zielona Góra"
       }
     },
@@ -5892,7 +5922,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "393",
+        "id": "395",
         "branch": "Zielona Góra"
       }
     },
@@ -5907,7 +5937,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "394",
+        "id": "396",
         "branch": "Zielona Góra"
       }
     },
@@ -5922,7 +5952,7 @@
       },
       "properties": {
         "directionCity": "Berlin",
-        "id": "395",
+        "id": "397",
         "branch": "Zielona Góra"
       }
     },
@@ -5937,7 +5967,7 @@
       },
       "properties": {
         "directionCity": "Berlin",
-        "id": "396",
+        "id": "398",
         "branch": "Zielona Góra"
       }
     },
@@ -5952,7 +5982,7 @@
       },
       "properties": {
         "directionCity": "Poznań",
-        "id": "397",
+        "id": "399",
         "branch": "Zielona Góra"
       }
     },
@@ -5967,7 +5997,7 @@
       },
       "properties": {
         "directionCity": "Gorzów Wlkp.",
-        "id": "398",
+        "id": "400",
         "branch": "Zielona Góra"
       }
     },
@@ -5982,7 +6012,7 @@
       },
       "properties": {
         "directionCity": "Szczecin",
-        "id": "399",
+        "id": "401",
         "branch": "Zielona Góra"
       }
     },
@@ -5997,7 +6027,7 @@
       },
       "properties": {
         "directionCity": "Międzyrzecz",
-        "id": "400",
+        "id": "402",
         "branch": "Zielona Góra"
       }
     },
@@ -6012,7 +6042,7 @@
       },
       "properties": {
         "directionCity": "Skwierzyna",
-        "id": "401",
+        "id": "403",
         "branch": "Zielona Góra"
       }
     },
@@ -6027,7 +6057,7 @@
       },
       "properties": {
         "directionCity": "Zielona Góra",
-        "id": "402",
+        "id": "404",
         "branch": "Zielona Góra"
       }
     },
@@ -6042,7 +6072,7 @@
       },
       "properties": {
         "directionCity": "Świebodzin",
-        "id": "403",
+        "id": "405",
         "branch": "Zielona Góra"
       }
     },
@@ -6057,7 +6087,7 @@
       },
       "properties": {
         "directionCity": "Berlin",
-        "id": "404",
+        "id": "406",
         "branch": "Zielona Góra"
       }
     },
@@ -6072,7 +6102,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "405",
+        "id": "407",
         "branch": "Zielona Góra"
       }
     },
@@ -6087,7 +6117,7 @@
       },
       "properties": {
         "directionCity": "Zielona Góra",
-        "id": "406",
+        "id": "408",
         "branch": "Zielona Góra"
       }
     },
@@ -6102,7 +6132,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "407",
+        "id": "409",
         "branch": "Zielona Góra"
       }
     },
@@ -6117,7 +6147,7 @@
       },
       "properties": {
         "directionCity": "Zielona Góra",
-        "id": "408",
+        "id": "410",
         "branch": "Zielona Góra"
       }
     },
@@ -6132,7 +6162,7 @@
       },
       "properties": {
         "directionCity": "Zielona Góra",
-        "id": "409",
+        "id": "411",
         "branch": "Zielona Góra"
       }
     },
@@ -6147,7 +6177,7 @@
       },
       "properties": {
         "directionCity": "Zielona Góra",
-        "id": "410",
+        "id": "412",
         "branch": "Zielona Góra"
       }
     },
@@ -6162,7 +6192,7 @@
       },
       "properties": {
         "directionCity": "Gorzów Wlkp.",
-        "id": "411",
+        "id": "413",
         "branch": "Zielona Góra"
       }
     },
@@ -6177,7 +6207,7 @@
       },
       "properties": {
         "directionCity": "Wrocław",
-        "id": "412",
+        "id": "414",
         "branch": "Zielona Góra"
       }
     },
@@ -6192,7 +6222,7 @@
       },
       "properties": {
         "directionCity": "Zielona Góra",
-        "id": "413",
+        "id": "415",
         "branch": "Zielona Góra"
       }
     }
